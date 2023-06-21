@@ -34,7 +34,7 @@
     "chalk": "^2.4.2",
     "change-case": "^3.1.0",
     "compression": "~1.7.4",
-    "execa": "^1.0.0",
+    "execa": "^2.1.0",
     "git-user-info": "^1.0.1",
     "inquirer": "^8.2.0",
     "is-invalid-path": "^1.0.2",
