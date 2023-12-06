@@ -56,7 +56,7 @@
     "merge": "~2.1.1",
     "micromatch": "~4.0.2",
     "node-fetch": "~2.6.1",
-    "pertain": "~0.2.0",
+    "pertain": "~0.2.1",
     "pkg-dir": "~4.1.0",
     "portscanner": "~2.2.0",
     "tapable": "~1.1.3",
