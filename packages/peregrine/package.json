@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/magento/pwa-studio/tree/main/packages/peregrine#readme",
   "dependencies": {
-    "fast-glob": "~3.2.4",
+    "fast-glob": "~3.3.3",
     "zen-observable-ts": "^1.2.0"
   },
   "devDependencies": {
