@@ -47,7 +47,7 @@
     "gitignore-to-glob": "~0.3.0",
     "graphql-playground-middleware-express": "~1.7.18",
     "hastily": "~0.5.0",
-    "js-yaml": "~3.13.1",
+    "js-yaml": "~3.14.2",
     "jsdom": "~16.6.0",
     "klaw": "~3.0.0",
     "loader-utils": "~2.0.0",
