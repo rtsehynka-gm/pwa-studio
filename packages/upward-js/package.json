@@ -43,7 +43,7 @@
     "hogan.js": "~3.0.2",
     "http-proxy-middleware": "~0.19.1",
     "js-yaml": "~3.13.1",
-    "lodash": "~4.17.11",
+    "lodash": "~4.17.23",
     "morgan": "~1.9.1",
     "node-fetch": "~2.6.1"
   },
